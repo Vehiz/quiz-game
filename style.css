@@ -410,7 +410,17 @@ footer button.show{
     padding: 0 4px;
     font-weight: 600;
 }
+.result_box .fb_share{
+    font-size: 20px;
+    color: #007bff;
+    margin-bottom: 10px;
+}
 
+.result_box .fb_share i{
+    font-size: 35px;
+    color: #007bff;
+    margin-bottom: 10px;
+}
 .result_box .buttons{
     display: flex;
     margin: 20px 0;
